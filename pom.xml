@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>Jazz</name>
+	<name>Jazz Pong</name>
 	<url>http://javajazz.github.io/jazz-pong</url>
 	<description>
         Pong implemented in Jazz.
